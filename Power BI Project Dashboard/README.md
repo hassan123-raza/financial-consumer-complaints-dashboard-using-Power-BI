@@ -10,8 +10,8 @@ This Power BI project analyzes real-world complaint data from the Consumer Finan
 
 ## 📂 Files
 - `FinancialComplaints.pbix`: The main dashboard file
-- `/images`: Screenshots of the dashboard
-- `README.md`: Project summary
+- Dashboard Images.
+-`README.md`: Project summary
 
 ## 📌 Objective
 Turn raw data into actionable insights to help identify complaint patterns and improve consumer services.
