@@ -2,6 +2,7 @@
 
 This Power BI project analyzes real-world complaint data from the Consumer Financial complaints data It visualizes trends, highlights different sectors like complaints by issues, states, media etc and showcases resolution outcomes.
 
+
 🔧 Tools Used
 Power BI
 
